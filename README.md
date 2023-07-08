@@ -1,4 +1,4 @@
-https://ibb.co/WvvWdVw
-https://ibb.co/s3QPJvb
-https://ibb.co/C2SK8mj
-https://ibb.co/mqVr3zJ
+list - https://ibb.co/WvvWdVw
+getById - https://ibb.co/s3QPJvb
+add - https://ibb.co/C2SK8mj
+remove - https://ibb.co/mqVr3zJ
